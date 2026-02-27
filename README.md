@@ -43,22 +43,41 @@ Below is the overall structure of the repository:
 
 assignment1
 │
+
 ├── q1_frailty
+
 │ ├── data
+
 │ ├── src
+
 │ └── reports
+
 │ └── findings.md
+
 │
+
 ├── q2_visualization
+
 │ ├── data
+
 │ ├── src
+
 │ └── reports
+
 │ ├── findings.md
+
 │ ├── V1_gender_boxplot.png
+
 │ ├── V2_...
+
 │ ├── V3_...
+
 │ ├── V4_...
+
 │ └── V5_...
+
 │
+
 ├── .idea
+
 └── .venv
