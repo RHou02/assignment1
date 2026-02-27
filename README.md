@@ -42,6 +42,7 @@ The visualization analysis for Question 2 is located in the `q2_visualization` f
 Below is the overall structure of the repository:
 
 assignment1
+
 │
 
 ├── q1_frailty
